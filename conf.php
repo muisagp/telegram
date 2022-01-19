@@ -1,0 +1,5 @@
+<?php
+//$token="197662262:AAH5Q0jrpzTZeasI8dQVxwFNXUNSTHaA1MI";
+//646080676:AAEH7X5LJSh_m84bsxQB6z-3raTGnjrjYlE
+$token="646080676:AAEH7X5LJSh_m84bsxQB6z-3raTGnjrjYlE";
+?>

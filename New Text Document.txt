@@ -1,0 +1,18 @@
+Notice: Trying to access array offset on value of type null in C:\xampp\htdocs\telegram\index.php on line 247
+{"ok":true,"result":
+{"message_id":265,
+"from":
+	{"id":197662262,"is_bot":true,"first_name":"VallBot","username":"VallbotBot"},
+"chat":
+	{"id":-752324758,"title":"ExpBot","type":"group","all_members_are_administrators":true},
+"date":1642572517,
+"reply_to_message":
+	{"message_id":264,
+	"from":
+		{"id":279222513,"is_bot":false,"first_name":"muis","last_name":"arghi","username":"muisagp","language_code":"en"},
+		"chat":{"id":-752324758,"title":"ExpBot","type":"group","all_members_are_administrators":true},"date":1642572512,"text":"@VallbotBot /simpan","entities":[{"offset":0,"length":11,"type":"mention"},{"offset":12,"length":7,"type":"bot_command"}]},"text":"chat ID: .-752324758. 264. Nama: , user: Sudah tersimpan"}}
+Fatal error: Maximum execution time of 5 seconds exceeded in C:\xampp\htdocs\telegram\index.php on line 179
+
+
+{"ok":true,"result":{"message_id":267,"from":{"id":197662262,"is_bot":true,"first_name":"VallBot","username":"VallbotBot"},"chat":{"id":-752324758,"title":"ExpBot","type":"group","all_members_are_administrators":true},"date":1642572785,"reply_to_message":{"message_id":266,"from":{"id":279222513,"is_bot":false,"first_name":"muis","last_name":"arghi","username":"muisagp","language_code":"en"},"chat":{"id":-752324758,"title":"ExpBot","type":"group","all_members_are_administrators":true},"date":1642572783,"text":"@VallbotBot /simpan","entities":[{"offset":0,"length":11,"type":"mention"},{"offset":12,"length":7,"type":"bot_command"}]},"text":"chat ID: .-752324758. 266. Nama: , user: Sudah tersimpan"}}
+Fatal error: Maximum execution time of 5 seconds exceeded in C:\xampp\htdocs\telegram\index.php on line 179
